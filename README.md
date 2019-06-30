@@ -4,7 +4,7 @@ A temperatura é medida por um lm35 e exibida em um display LCD nas escalas de F
 
 [Video do Youtube](https://www.youtube.com/)
 
-![Imagem]()
+![Imagem](Imagem.png "Circuito")
 
 ## Circuito
 
