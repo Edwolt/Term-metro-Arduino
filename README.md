@@ -2,7 +2,7 @@
 Projeto em Arduino para medir a temperatura ambiente.
 A temperatura é medida por um lm35 e exibida em um display LCD nas escalas de Fahrenheit, Celsius e Kelvin.
 
-[Video do Youtube](https://youtu.be/37-_OJnFM-8)
+Video: https://youtu.be/37-_OJnFM-8
 
 ![Imagem](imagens/Image.jpg)
 
