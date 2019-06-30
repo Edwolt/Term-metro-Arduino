@@ -91,11 +91,11 @@ void loop() {
 
   entrada = analogRead(sensor);
 
-  float milivolts = (entrada/1024.0)*5000;
-  float celsius = milivolts/10;
+  float celsius = (3.3*entrada*100)/1024;
   float kelvin = celsius+273.15;
   float fahrenheit = celsius*1.8+32; 
 
+  lcd.clear();
   lcd.home();
   lcd.print("Temp");
   lcd.print("(");
